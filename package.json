@@ -1,0 +1,21 @@
+{
+  "name": "sdaw_280d",
+  "version": "1.0.0",
+  "description": "Repositorio para la tarea de Git y GitHub (SDAW)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "node"
+  ],
+  "author": "Antonio David Fernandez Mulero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "type": "commonjs"
+}
