@@ -57,6 +57,10 @@ El repositorio contiene los siguientes archivos clave:
 * **`git merge`**: (COMPLETAR) Fusiona los cambios de una rama en otra. [cite_start]Por ejemplo, `git merge <rama-feature>` fusionaría los cambios de `<rama-feature>` en la rama actual[cite: 76].
 * [cite_start]**`git push`**: (COMPLETAR) Sube los *commits* locales al repositorio remoto (como GitHub), actualizando la rama remota con los cambios locales[cite: 77].
 
-## 5. Log de Commits (Añadido desde rama 2)
 
-[cite_start]A continuación, se muestra el historial de *commits* del repositorio obtenido con el comando `git log --oneline`[cite: 78, 81]:
+## Información técnica añadida desde rama 2
+
+22c5f2d (HEAD -> rama2_AntonioDavidFernandezMulero, origin/main, origin/HEAD, main) docs: Añadir comentario de prueba en server.js
+d939925 feat: Añadir párrafo de prueba al index.html
+7aeac40 Commit inicial: Estructura base del proyecto
+ab09a91 Initial commit
