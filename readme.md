@@ -56,6 +56,14 @@ El repositorio contiene los siguientes archivos clave:
 * **`git branch`**: (COMPLETAR) Permite listar todas las ramas locales. [cite_start]Con argumentos adicionales, puede usarse para crear una nueva rama (`git branch <nombre>`) o eliminar una (`git branch -d <nombre>`)[cite: 75].
 * **`git merge`**: (COMPLETAR) Fusiona los cambios de una rama en otra. [cite_start]Por ejemplo, `git merge <rama-feature>` fusionaría los cambios de `<rama-feature>` en la rama actual[cite: 76].
 * [cite_start]**`git push`**: (COMPLETAR) Sube los *commits* locales al repositorio remoto (como GitHub), actualizando la rama remota con los cambios locales[cite: 77].
+## Información técnica añadida desde rama 1
+En esta sección se describen los principales comandos de Git utilizados durante la práctica:
+- git init: Inicializa un nuevo repositorio Git local en la carpeta actual.
+- git add: Añade los cambios de los archivos al área de preparación (staging) para el próximo commit.
+- git commit: Guarda permanentemente los cambios del área de preparación en el historial del repositorio.
+- git branch: Permite listar, crear o eliminar ramas.
+- git merge: Fusiona los cambios de una rama en la rama actual.
+- git push: Sube los commits locales al repositorio remoto (como GitHub).
 
 ## 5. Log de Commits (Añadido desde rama 2)
 
