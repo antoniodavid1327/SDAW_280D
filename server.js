@@ -5,7 +5,7 @@ const path = require('path');
 // 2. Inicializar la aplicación Express
 const app = express();
 const port = 3000; // El puerto donde se ejecutará el servidor
-
+// Este es un comentario de prueba para la Etapa 6
 // 3. Configurar el middleware para servir archivos estáticos
 // Esta línea es CLAVE: Le dice a Express que la carpeta actual
 // contiene archivos (como index.html, script.js) que puede servir.
