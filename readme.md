@@ -65,6 +65,10 @@ En esta sección se describen los principales comandos de Git utilizados durante
 - git merge: Fusiona los cambios de una rama en la rama actual.
 - git push: Sube los commits locales al repositorio remoto (como GitHub).
 
-## 5. Log de Commits (Añadido desde rama 2)
 
-[cite_start]A continuación, se muestra el historial de *commits* del repositorio obtenido con el comando `git log --oneline`[cite: 78, 81]:
+## Información técnica añadida desde rama 2
+  Aqui se muestra el historial de commits en la rama main en este punto
+22c5f2d (HEAD -> rama2_AntonioDavidFernandezMulero, origin/main, origin/HEAD, main) docs: Añadir comentario de prueba en server.js
+d939925 feat: Añadir párrafo de prueba al index.html
+7aeac40 Commit inicial: Estructura base del proyecto
+ab09a91 Initial commit
