@@ -3,7 +3,8 @@
 * **Estudiante**: Antonio David Fernandez Mulero
 * **Asignatura**: SDAW (Sistemas de Desarrollo de Aplicaciones Web)
 * **Tarea**: Uso de repositorios digitales (Git) I
-## ESTO LO ESTOY AÑADIENDO AHORA MISMO PARA LA TAREA DE GITLAB
+# Reflexión Personal (Tarea 1)
+En la tarea anterior aprendí a inicializar un repositorio git, realizar commits básicos y conectarlo con GitHub. Me pareció interesante ver cómo se registran los cambios paso a paso, aunque tuve que prestar atención a la configuración del usuario y el correo para que los commits se asignaran correctamente.
 ---
 
 ## 1. Descripción del Proyecto
