@@ -6,6 +6,26 @@
 
 ---
 
+###  Para la Rama 4 (`rama4_AntonioDavid...`)
+
+**Importante:** Recuerda que antes de hacer esto debes haber vuelto a `main` (`git checkout main`) y creado la rama 4 limpia. Al abrir el archivo, **no verás lo que pusiste en la rama 3**, y eso es correcto.
+
+Pega esto en tu `README.md`:
+
+```markdown
+## Procedimiento de Conexión con GitLab
+Para conectar este repositorio local, que ya estaba vinculado a GitHub, con un nuevo repositorio remoto en GitLab, seguí estos pasos:
+
+1. Creé un proyecto vacío en GitLab sin README.
+2. Añadí el nuevo remoto con el comando:
+   `git remote add gitlab https://gitlab.com/Antodav1234/sdaw_29280.git`
+3. Verifiqué los remotos con `git remote -v` para confirmar que tenía tanto 'origin' como 'gitlab'.
+4. Subí la rama principal al nuevo remoto usando:
+   `git push -u gitlab main`
+
+## Información técnica añadida desde rama 4
+Se incluye información para conectar un repositorio local con GitLab.
+
 ## 1. Descripción del Proyecto
 
 Este repositorio ha sido creado como parte de la tarea "Uso de repositorios digitales (Git) I". [cite_start]El objetivo es demostrar el flujo de trabajo completo de Git y GitHub, incluyendo la inicialización de un proyecto local, la gestión de versiones, el uso de ramas para desarrollo simultáneo y la integración de cambios mediante *pull requests*[cite: 2].
