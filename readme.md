@@ -3,7 +3,7 @@
 * **Estudiante**: Antonio David Fernandez Mulero
 * **Asignatura**: SDAW (Sistemas de Desarrollo de Aplicaciones Web)
 * **Tarea**: Uso de repositorios digitales (Git) I
-
+## ESTO LO ESTOY AÑADIENDO AHORA MISMO PARA LA TAREA DE GITLAB
 ---
 
 ## 1. Descripción del Proyecto
@@ -59,7 +59,7 @@ El repositorio contiene los siguientes archivos clave:
 
 
 ## Información técnica añadida desde rama 2
-  Aqui se muestra el historial de commits en la rama main en este punto
+  
 22c5f2d (HEAD -> rama2_AntonioDavidFernandezMulero, origin/main, origin/HEAD, main) docs: Añadir comentario de prueba en server.js
 d939925 feat: Añadir párrafo de prueba al index.html
 7aeac40 Commit inicial: Estructura base del proyecto
